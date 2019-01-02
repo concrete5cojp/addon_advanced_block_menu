@@ -1,0 +1,7 @@
+{
+  "name": "concrete5cojp/addon_advanced_block_menu",
+  "description": "Add \"Information\" menu item useful for developers in the block menu.",
+  "type": "concrete5-package",
+  "license": "MIT",
+  "minimum-stability": "stable"
+}
